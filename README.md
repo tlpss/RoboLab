@@ -140,3 +140,7 @@ The RoboLab framework is released under [CC-BY-NC-4.0](https://creativecommons.o
       url={https://arxiv.org/abs/2604.09860},
 }
 ```
+
+### Acknowledgements
+
+We thank the following additional contributors for their help in building RoboLab: Arhan Jain, Alperen Degirmenci, Siyi Chen
