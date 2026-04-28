@@ -10,6 +10,7 @@ dependencies = [
     # Core
     "isaaclab==2.2.0",
     "torch",
+    "torchvision",
     "numpy",
     "gymnasium",
     # Remote inference
