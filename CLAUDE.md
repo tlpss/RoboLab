@@ -53,9 +53,7 @@ Read these first when working on the generalization framework:
 
 ## Ongoing work / open threads
 
-- `examples/teleop/teleop_sim.py`, `remote_agent.py`, `scripted_banana_agent.py` — teleop pipeline. Not yet wired to consume a `VariationSpec` for variation-aware demo collection.
-- `robolab/tasks/variations-bench/` — scratch directory for the first generalization-bench task (e.g. spoon-in-container or marker-in-mug, intra-class manipulated + receptacle pools, large distractor set).
-- The `VariationSpec` package itself does not yet exist — the design in `docs/variation_architecture.md` precedes the implementation.
+See [docs/Robolab-generalization/TODO.md](docs/Robolab-generalization/TODO.md) — single source of truth for open threads on the generalization work.
 
 ## Pointers
 
